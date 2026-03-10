@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihjh7QI17PY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MT\\Desktop\\Work\\.Net\\SignalR\\SignalRDemo\\SignalRDemo\\SignalRDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MT\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\MT\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
